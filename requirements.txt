@@ -1,0 +1,6 @@
+git+https://github.com/Awesome-RJ/PyMySQL
+mysql
+mysql-connector-python
+PyMySQL
+unidecode
+python-telegram-bot
